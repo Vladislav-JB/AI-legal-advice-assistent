@@ -45,6 +45,8 @@
 ### 4. Google Sheets
 - Для сбора информации о запросах в таблицу.
 
+  ![Скриншот 7](https://github.com/Vladislav-JB/AI-legal-advice-assistent/blob/main/Screenshot_7.jpg?raw=true).
+
 ### 5. Калькулятор ипотеки
 Реализован как дополнительные возможности.
 
