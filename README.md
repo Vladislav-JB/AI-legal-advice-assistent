@@ -2,7 +2,7 @@
 
 Ссылка на проект - @AI_legal_advice_bot
 
-![Скриншот 1](https://github.com/Vladislav-JB/ai-assistent/blob/main/%D0%98%D0%98-%D0%B0%D1%81%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BD%D1%82.jpg?raw=true) ![Скриншот 2](https://github.com/Vladislav-JB/ai-assistent/blob/main/Google%20Calendar.jpg?raw=true)
+![Скриншот 1](https://github.com/Vladislav-JB/AI-legal-advice-assistent/blob/main/Screenshot_3.jpg?raw=true). ![Скриншот 2](https://github.com/Vladislav-JB/AI-legal-advice-assistent/blob/main/Screenshot_4.jpg?raw=true).
 
 ## Описание проекта
 Разработан интеллектуальный ассистент чат-бот в Telegram, который предоставляет юридические консультации в сфере недвижимость.
