@@ -40,6 +40,8 @@
 - `/help` — справка по использованию бота.
 - `/ask` — задание юридического вопроса.
 
+  ![Скриншот 6](https://github.com/Vladislav-JB/AI-legal-advice-assistent/blob/main/Screenshot_5.jpg?raw=true). ![Скриншот 7](https://github.com/Vladislav-JB/AI-legal-advice-assistent/blob/main/Screenshot_6.jpg?raw=true). 
+
 ### 4. Google Sheets
 - Для сбора информации о запросах в таблицу.
 
